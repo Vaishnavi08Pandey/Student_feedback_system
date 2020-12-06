@@ -195,7 +195,7 @@ for the slideshow */
     </div>
     <div class="copyrightSection">
       <div class="col-md-12 text-center container">
-        <p>&copy; Copyright Sakshi-Singh Vaishnavi-Pandey 2020</p>
+        <p>&copy; Copyright Vaishnavi-Pandey Sakshi-Singh 2020</p>
       </div>
     </div>
 
