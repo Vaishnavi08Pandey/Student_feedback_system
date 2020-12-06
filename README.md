@@ -23,7 +23,7 @@ Here since we have only one admin account,
 so the admin email is "admin@email.com and password is "admin".
 "fb.sql" file already has create and insert queries.
 
-In Registeration,
+In Registration,
 Admin cannot register but there is a registration form for student.
 
 In admin login: You can perform all admin actions such as login to the account,check all the feedbacks and log-out from the account.
