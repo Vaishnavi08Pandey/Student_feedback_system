@@ -20,7 +20,7 @@ You can select any one of them via buttons shown on login page.
 Buttons for particular role will lead to the respective login pages.
 
 Here since we have only one admin account,
-so the admin email is "admin@email.com and password is "admin".
+so the admin email is "admin@gmail.com" and password is "admin".
 "fb.sql" file already has create and insert queries.
 
 In Registration,
