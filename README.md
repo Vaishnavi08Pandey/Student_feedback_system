@@ -31,6 +31,8 @@ In admin login: You can perform all admin actions such as login to the account,c
 If you entered the student user and password correctly in login page, then it will allow you to give feedback and you can also log-out from the account.
 Student can give feedback only once.
 
+Feedback form has radio buttons where you can answer the questions by rating from 1-5.
+
 Create a database called "fb" and
 "fb.sql" will create three tables according to commands mentioned in it.
 
@@ -45,7 +47,3 @@ Create a database called "fb" and
 #### Database: MySQL
 
 #### Software Stack: XAMPP
-
-
-
-
