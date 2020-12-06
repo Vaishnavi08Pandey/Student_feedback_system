@@ -1,0 +1,36 @@
+.ui{
+  color:white;
+  border-color: #bdc3c7; 
+}
+
+.uit{
+  text-align: right;
+  font-size:small;
+  color:white;
+  border-bottom: 2px solid #f1f1f1;
+}
+
+.jumbotron {
+  background-color: #f1f1f1 ;
+  background-image: url("https://i.ytimg.com/vi/bkUEyELEvkI/maxresdefault.jpg");
+  background-size:cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 600px;
+  width:100%;
+}
+
+.uiet
+{
+  background-color: #f1f1f1 ;
+  background-image: url("https://cdn.pixabay.com/photo/2016/03/11/08/02/usa-1249880_960_720.jpg");
+  background-size:cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 700px;
+  width:100%;
+}
