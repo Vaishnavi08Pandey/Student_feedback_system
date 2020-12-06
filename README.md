@@ -34,7 +34,7 @@ A Student can give feedback only once.
 Feedback form has radio buttons where you can answer the questions by rating it from 1-5.
 
 Create a database called "fb" and
-"fb.sql" will create three tables according to commands mentioned in it.
+"fb.sql" will create three tables according to commands mentioned in it. 
 
 # SPECIFICATIONS
 
