@@ -14,8 +14,8 @@ home,registration, login,about,contact which leads to respective pages.
 
 In login, we have 2 modules such as Admin and Student.
 Admin is the one who can see the feedbacks given by all students
-We can start the development from the login page,
-where we have given the option to login as admin and student...
+In the login page,
+we have given the option to login as admin and student...
 You can select any one of them via buttons shown on login page.
 Buttons for particular role will lead to the respective login pages.
 
