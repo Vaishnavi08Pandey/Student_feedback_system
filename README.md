@@ -29,7 +29,7 @@ Admin cannot register but there is a registration form for student.
 In admin login: You can perform all admin actions such as login to the account,check all the feedbacks and log-out from the account.
 
 If you entered the student user and password correctly in login page, then it will allow you to give feedback and you can also log-out from the account.
-Student can give feedback only once.
+A Student can give feedback only once.
 
 Feedback form has radio buttons where you can answer the questions by rating it from 1-5.
 
