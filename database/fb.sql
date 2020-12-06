@@ -46,7 +46,7 @@ INSERT INTO `feedback` (`id`, `student_id`, `Relevance or usefulness of the topi
   `Consistency of the question paper (coverage and balance)`, 
   `Workload of this course in comparison with other courses`, 
   `Your effort in studying the course`, `What I liked about the course`,
-   `Why I disliked about the course`) VALUES ('1', 'sakshi@gmail.com', '4', '3', '2', '4', '1', '2', '5', '1', '4', '123', '123');
+   `Why I disliked about the course`) VALUES ('1', 'xyz@gmail.com', '4', '3', '2', '4', '1', '2', '5', '1', '4', '123', '123');
 
 
 
